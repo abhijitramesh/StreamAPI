@@ -19,7 +19,7 @@ public class Distinct{
         Stream<String> stream =  newList.stream();
 
         stream.distinct().forEach(e -> System.out.println(e));
- 
+        
     }
 
 

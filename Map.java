@@ -23,17 +23,5 @@ public class Map{
         });
 
         stream1.forEach(e -> System.out.println(e));
-
-
-
-
-
-
-
     }
-
-
-
-
-
 }
